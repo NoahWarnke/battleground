@@ -83,7 +83,7 @@
       "81, 55",
       "81, 56"
     ],
-    "base": "74,48"
+    "base": "74, 48"
   },
   "communications": {
     "type": "webrtc",
